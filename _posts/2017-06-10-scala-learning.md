@@ -30,7 +30,7 @@ Refer to [this tutorial](https://www.jetbrains.com/help/idea/creating-and-runnin
 
 - Exercises
 
-```
+```scala
 def and(x: Boolean, y: => Boolean) = if (x) y else false
 
 def or(x: Boolean, y: => Boolean) = if (x) true else y
@@ -56,7 +56,7 @@ The above `isGoodEnough` is not precise for small numbers because it is likely t
 
 The revised version is as below
 
-```
+```scala
 def isGoodEnough(guess: Double, x: Double) =
     abs(guess * guess - x) / x < 0.001
 ```
@@ -73,13 +73,74 @@ def isGoodEnough(guess: Double, x: Double) =
     - If a function calls itself as its last action, the function's stack frame can be reused
     - iterative processes
     
-```
+```scala
 def factorial(n: Int): Int = {
     def loop(acc: Int, n: Int): Int = 
         if (n ==0) acc
         else loop(acc * n, n -1)
     
     loop(1, n)
+}
+
+```
+
+- My own solutions to exercises
+```scala
+package recfun
+
+object Main {
+  def main(args: Array[String]) {
+    println("Pascal's Triangle")
+    for (row <- 0 to 10) {
+      for (col <- 0 to row)
+        print(pascal(col, row) + " ")
+      println()
+    }
+  }
+
+  /**
+    * Exercise 1
+    */
+  def pascal(c: Int, r: Int): Int =
+    if (c == 0 && r == 0) 1
+    else if (r < 0 || c < 0 || c > r) 0
+    else pascal(c - 1, r - 1) + pascal(c, r - 1)
+
+  /**
+    * Exercise 2
+    */
+  def balance(chars: List[Char]): Boolean = {
+    def helper(chars: List[Char], left: Int): Boolean =
+      if (chars.isEmpty && left == 0) return true
+      else {
+        var cur = chars.head
+        if (cur == '(') {
+          return helper(chars.tail, left + 1);
+        } else if (cur == ')') {
+          if (left <= 0) {
+            return false
+          } else {
+            return helper(chars.tail, left - 1);
+          }
+        } else {
+          return helper(chars.tail, left);
+        }
+      }
+
+    helper(chars, 0)
+  }
+
+  /**
+    * Exercise 3
+    */
+  def countChange(money: Int, coins: List[Int]): Int = {
+    if (money == 0) 1
+    else if (money < 0 ) 0
+    else if (coins.isEmpty) 0
+    else {
+      countChange(money - coins.head, coins) + countChange(money, coins.tail)
+    }
+  }
 }
 
 ```
