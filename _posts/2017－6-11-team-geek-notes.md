@@ -57,7 +57,7 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
             1. Only invite people who absolutely need to be there
             2. Have an agenda and distribute it well before the meeting starts
             3. End the meeting early if you've accomplished the meeting's goal
-            4. Keep the meeing on track
+            4. Keep the meeting on track
             5. Try to schedule the meeting near other interrupt points in your day (e.g. lunch, end of day)
     * Design doc
         * typically owned by one person, authored by two or three, and reviewed by a larger set
@@ -83,5 +83,75 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
     * Have real test and release processes
         * automated tests and release
         * part of coding and review process
+
+## Chapter 3 - Every boat needs a captain
+* Why engineers fear to be a manager
+    * spend much less time writing code
+    * "In a hierarchy every employee tends to rise to his level of incompetence"
+* Great reasons to consider becoming a manager
+    * scale yourself
+        * image how much code a team could write under your leadership
+    * you might jus be really good at it
+
+* The servant leader
+    * strive to create ana atmosphere of HRT
+    * only managing - manage both technical and social health of the team
+
+* Antipatterns
+    * Hire pushovers
+        * shall strive to hire people who are smarter than you and can replace you
+    * Ignore lower performers
+        * the benefit with a low performer as quickly as possible is that you can put yourself in the position of helping him up or out
+        * temporary micromanagement 
+            * set up a specific time frame
+            * make the goals small and incremental
+            * meet the engineers every week to check the progress and be sure your set explicit expectations
+    * Ignore human issues
+    * Be everyone's friend
+    * Compromise the hiring bar
+        * fight tooth and nail for high-quality engineers
+        * **If you still keep getting handed substandard engineers, maybe ist's time to look for another job**
+    * Treat your team like children
+        * people tend to act the way you treat them
+
+* Leadership patterns
+    * lose the ego  
+        * cultivate a string collective team ego and identity
+        * respect the ability and prior accomplishments of the team members
+        * apologize when you make a mistake
+    * be a zen master
+        * mediate your reactions and maintain your calm
+        * ask questions
+    * be a catalyst
+        * build consensus
+        * help members when they hit a roadblock
+            * knowing the right people is more valuable than knowing the right answer
+        * make them feel safe and secure so they can take greater risks
+    * be a teacher and a mentor
+        * give them a chance to learn on their own
+        * three things for a mentor
+            1. experience with your team's processes and systems.
+            2. the ability to explain things to someone else
+            3. gauge how much help your mentee needs
+    * set clear goals
+        * make sure your team is pulling in the same direction
+    * be honest
+        * be kind and empathetic when delivering constructive criticism
+        * delivery is key when providing direct feedback or criticism
+    * track happiness
+        * ask "What do you need" at the end of one-on-one sessions
+        * pay some attention to your team;s happiness outside the office
+        * track their careers
+    * other tips and tricks
+        * delegate, but get your hands dirty
+        * seek to replace yourself
+        * know when to make wave
+        * shield your team from chaos
+        * give your team air cover
+        * let your team know when they're doing well
+    * intrinsic motivation
+        * autonomy, mastery and purpose
+    
+    
     
     
