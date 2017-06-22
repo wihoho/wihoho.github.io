@@ -300,6 +300,7 @@ class Nil[T] extends List[T]
         * invariant type can appear anywhere
         
 * Function trait 
+
 ```scala
 package scala
 
@@ -320,6 +321,7 @@ def eval(e: Expr): Int = e match {
     case Sum(e1, e2) => eval(e1) + eval(e2)
 }
 ```
+
 ## Week 5 - Lists
 * List
     * immutable, recursive, homogeneous
