@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-<embed src="https://raw.githubusercontent.com/wihoho/Resume/master/A4/resume.pdf" type='application/pdf'>
+<embed src="/assert/resume-2017-06-22.pdf" type='application/pdf'>
