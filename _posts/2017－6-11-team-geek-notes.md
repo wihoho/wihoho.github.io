@@ -152,6 +152,40 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
     * intrinsic motivation
         * autonomy, mastery and purpose
     
+
+# Chapter 4 - Deal with poisonous people
+* It is more constructive and practical to identify and reprimand the intolerable behaviors
+    * native to judge whether a people is good or bad
+* Fortify your culture
+    * have a visible mission statement
+    * establish proper etiquette around email discussions
+    * document all history
+    * collaborate effectively
+    * have a clear policy and procedure around fixing bugs, testing and releasing software
+    * streamline the barrier to entry for newcomers
+    * reply on consensus-based decisions, but also have a process for resolving conflicts when consensus can not be reached
+* Identify the threat
+    * check team's attention and focus
+    * make a mental note that a person is consistently exhibiting poisonous behaviors
+    * Not respecting other people's time
+    * Ego
+        * anyone who is incapable of 
+            * accepting a consensus decision
+            * listen to or respect other points of view
+            * reach compromise
+        * immature or confusing communications
+        * Perfectionism
+* Repel the poison
+    * Redirect the Energy of Perfectionists
+    * Don’t Feed the Energy Creature
+    * Don’t Get Overly Emotional
+    * Look for Facts in the Bile
+        * Always bring the argument back to a technical discussion
+    * Repel Trolls with Niceness
+    * Know When to Give Up
+    * Focus on the Long Term
+        * it’s not worth compromising your culture for the short-term gains
+
     
     
     
