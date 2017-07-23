@@ -186,6 +186,56 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
     * Focus on the Long Term
         * it’s not worth compromising your culture for the short-term gains
 
+# Chapter 5 - The art of organizational manipulation
+* Organizational manipulation
+    * employ certain manipulative techniques to get things done effectively
+
+* Under an ideal manager
+    * pursue extra responsibility as you're getting your work done
+    * take risks and do not fear failure
+        * If you don't take risks in your work, you'll have fewer failures, but you will have fewer big successes as well
+    * Act like an adult
+    * Question things that you are unsure about
+    * Don't hesitate to update your team's leader on what you're doing before she asks you what's going on
+* Traits of a bad manager
+    * Fear of failure
+    * Insert herself into any interaction you have with people outside your team
+    * Keep the knowledge power to herself and not share it with you, no matter how much it might help you to do your job
+    Take credit for your successes and blame you for your failures
+* Office politician
+    * He spends more time looking impactful than actually being impactful
+    * Steer clear of the office politician
+        * route around him when possible
+        * do not carelessly badmouth him
+
+* The bad organization
+    * most companies are not engineering-focused - engineers are means to accomplish business goals that are typically not technical
+    * unrealistic deadlines and lack of qualified technical people to get projects completed on time.
+    * Difficult to acquire enough hardware to effectively run your product
+    * The most egregiously bad organizations have ossified command and control structures that resemble fiefdoms.
+    * your company might lack important things like focus, vision, or direction. 
     
+* Strategies to get things done
+    * It's easier to ask for forgiveness than permission
+    * If you can't take the path, make the path
+        * If you're going to successfully eliminate a bad habit, find a better one to replace it
+    * Learn to manage upward
+        * Ensure your manager and people outside are aware that you're doing it well
+        * Focus your energies on launching products over just about everything else
+    * Offensive vs Defensive work
+        * A team should never spend more than 1/3 time and energy on defensive work
+    * Luck and the favor economy
+        * Help others
+        * Lean something new in the process of helping someone
+    * Get promoted to a position of safety
+        * Put some amount of effort into "playing the promotion game" to get yourself promoted in addition to excelling at your job
+        * The higher in the organization your can get, the more control you will have over your destiny inside the company
+    * Seek powerful friends
+        * connectors, old-timers, admin
+        * Being face-to-face with someone else in real life
+    * Use email to ask a busy executive for anything
+        * Shorter emails are even more likely to get a response
+        * Email - at most 3 bullets and a call for action
+    * Plan B - Get out
     
     
