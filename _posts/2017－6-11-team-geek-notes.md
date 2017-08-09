@@ -239,3 +239,29 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
     * Plan B - Get out
     
     
+# Chapter 6 - Users are People. Too
+* You also need a lot of other people to use your software and be happy with it.
+* Question your career choice if there is no users using your software
+* Manging public perception
+    * can not ignore marketing
+    * actively cooperate with marketing
+    * care about users' emotional perceptron of your software
+* Pay attention to first impressions
+* Under-promise and over-deliver
+* Work with industry analysts respectfully
+* Usability of your software
+    * choose your audience
+    * consider the barrier to enter
+    * measure usage, not users
+    * speed matters
+    * do not be all thing
+    * do not be lazy
+    * hide complexity
+    * manage your relationship with users
+    * Don’t Be Condescending
+    * be patient
+    * create trust and delight
+
+# Epilogue
+* HRT
+* Applies to other social problems
