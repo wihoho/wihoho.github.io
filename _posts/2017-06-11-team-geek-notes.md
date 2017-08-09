@@ -42,7 +42,7 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
     * everyone has a strong sense of ownership and responsibility for the product's success
     * leaders really listen to the team
     
-* Make certain that all information is available to as manya people as possible in project documentation
+* Make certain that all information is available to as many people as possible in project documentation
 
 * Channels of communications
     * Mission statement
@@ -156,7 +156,7 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
 
 # Chapter 4 - Deal with poisonous people
 * It is more constructive and practical to identify and reprimand the intolerable behaviors
-    * native to judge whether a people is good or bad
+    * naive to judge whether a people is good or bad
 * Fortify your culture
     * have a visible mission statement
     * establish proper etiquette around email discussions
@@ -227,7 +227,7 @@ My boss recommended me Team Geek recently. This is a book about managing softwar
         * A team should never spend more than 1/3 time and energy on defensive work
     * Luck and the favor economy
         * Help others
-        * Lean something new in the process of helping someone
+        * Learn something new in the process of helping someone
     * Get promoted to a position of safety
         * Put some amount of effort into "playing the promotion game" to get yourself promoted in addition to excelling at your job
         * The higher in the organization your can get, the more control you will have over your destiny inside the company
