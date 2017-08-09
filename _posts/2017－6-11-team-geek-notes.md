@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Notes when reading Team Geek
 ---
 
 ## Background
