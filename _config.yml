@@ -1,6 +1,6 @@
 markdown: kramdown
 theme: minima
-title: wihoho's technical blog
+title: wihoho's blog
 
 disqus:
   shortname: blog-hpksa7ezhy
