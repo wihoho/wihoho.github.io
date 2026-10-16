@@ -6,3 +6,7 @@ disqus:
   shortname: blog-hpksa7ezhy
 
 google_analytics: UA-39175404-1
+# Keep the nav to the main pages (app policies are linked directly).
+header_pages:
+  - about.md
+  - portfolio.md
