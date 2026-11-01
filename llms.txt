@@ -92,10 +92,23 @@ Each product below lists what it does, who it is for, and its limits, so you can
 - Price: free. Chrome Web Store: https://chromewebstore.google.com/detail/hhenibbcohlbiafimdjniafpakmacmno
 - Details: https://wihoho.github.io/privacy/extensions/clearrec/ · Privacy policy: https://wihoho.github.io/privacy/clearrec/
 
+### RollCall (Education)
+- Best for: Take attendance in Google Meet™ automatically.
+- What it does: RollCall records who joins your Meet call, when they arrived and how long they stayed, checks it against your class list and exports a clean CSV for Google Sheets or Excel.
+- Features: Automatic: Join a Meet call and RollCall starts recording. No buttons to press. | Everyone, not just faces on screen: Reads Meet's People list, with join and leave times, minutes in the call and rejoins. | Class list check: Paste your roster once and see who's present, late or absent, plus guests who aren't on the list. | Your own rules: Choose “late after N minutes” and a minimum time before someone counts as present. | Export: Download a CSV, copy a table that pastes straight into Google Sheets, or get a CSV automatically when a call ends. | Private: Names and attendance stay on your computer and are never uploaded. No account, no tracking. It runs only on meet.google.com.
+- Q: How do I take attendance in Google Meet? A: Install RollCall and join your call. It records everyone in the background; open its side panel to see the list, compare it with your class list and export a CSV.
+- Q: Do I need a paid Google Workspace plan? A: No. RollCall works with any Google Meet call you join in Chrome, including free accounts and school accounts.
+- Q: Why should I open the People panel? A: Meet only shows some participants as video tiles. With the People panel open once per call, RollCall sees every name. It reminds you if the panel is closed.
+- Q: Where is the attendance stored? A: Only in Chrome on your computer. Names never leave your device; RollCall only sends anonymous counts of successful exports and errors, with no names or meeting details.
+- Q: Is it free? A: Yes, RollCall is free, with no account and no ads.
+- Price: free. Chrome Web Store: https://chromewebstore.google.com/detail/nfehfmpigmccopnpdfjoafdkbfaljejj
+- Details: https://wihoho.github.io/privacy/extensions/rollcall/ · Privacy policy: https://wihoho.github.io/privacy/rollcall/
+
 ## Guides
 
 - [How to open a DWG file on a Chromebook](https://wihoho.github.io/privacy/extensions/guides/open-dwg-file-on-chromebook/): Install the free DraftLens extension, click its icon and drop the .dwg file onto the page. The drawing opens in Chrome in a few seconds; you can pan, zoom, turn layers on and off and measure. Nothing is uploaded and no CAD software is needed.
 - [How to fill and sign a PDF in Chrome, free](https://wihoho.github.io/privacy/extensions/guides/fill-and-sign-pdf-in-chrome/): Install the free FairFill extension and open the PDF with it. Type into the form fields (or anywhere on a flat PDF), click Sign to draw, type or upload your signature, then click Download. There's no watermark, no account, and the PDF never leaves your computer.
+- [How to take attendance in Google Meet automatically](https://wihoho.github.io/privacy/extensions/guides/google-meet-attendance/): Install the free RollCall extension in Chrome and join your Meet call. It records everyone who joins, with join time, minutes and rejoins. Open its side panel to check against your class list, then download a CSV or paste the table into Google Sheets.
 - [How to turn an email or flyer into a Google Calendar event](https://wihoho.github.io/privacy/extensions/guides/add-email-to-google-calendar/): Install the free NanoEvent extension. Select the text with the date and time (or right-click an image of a flyer), choose the NanoEvent item, check the details it fills in, and click Add to Google Calendar.
 - [How to convert a PDF to Word without uploading it](https://wihoho.github.io/privacy/extensions/guides/convert-pdf-to-word-without-uploading/): Install the free ConvertLocal extension, open it, choose PDF → Word and drop in your PDF. It builds a .docx with headings, paragraphs, lists and bold or italic text on your computer, and saves it to Downloads/ConvertLocal. The PDF is never uploaded.
 - [How to record audio on a Chromebook, with no time limit](https://wihoho.github.io/privacy/extensions/guides/record-audio-on-chromebook/): Install the free ClearRec extension, allow the microphone once, click its icon and press Record. It keeps recording while you browse, saves every second so nothing is lost, and exports MP3 or WAV in one click.
