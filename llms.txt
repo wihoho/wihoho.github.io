@@ -64,8 +64,8 @@ Each product below lists what it does, who it is for, and its limits, so you can
 
 ### ConvertLocal (PDF)
 - Best for: Convert PDFs on your computer. Nothing is uploaded..
-- What it does: A private PDF converter for Chrome: PDF to Word, JPG to PDF, PDF to JPG, merge and split PDFs, all offline. No uploads, no email, no account.
-- Features: Images → PDF: JPG, PNG, WebP and GIF photos and scans. Phone photos come out upright, on image-sized, A4 or Letter pages. | PDF → Word: Headings, paragraphs, bullet lists and bold or italic text, as .docx. | PDF → images: Every page or the pages you choose, as PNG or JPG at 72, 150 or 300 dpi, with a one-click ZIP. | Merge and split: Merge PDFs in any order, or extract pages like “1-3, 5, 8-”. | Shrink scans: Make scanned PDFs small enough for email. | Quick access: Right-click an image to convert it to PDF, or a PDF link to convert it to Word.
+- What it does: A private PDF converter for Chrome: PDF to Word, JPG and iPhone HEIC photos to PDF, PDF to JPG, merge and split PDFs, all offline. No uploads, no email, no account.
+- Features: Images → PDF: JPG, PNG, iPhone HEIC, WebP and GIF photos and scans. Phone photos come out upright, on image-sized, A4 or Letter pages. | PDF → Word: Headings, paragraphs, bullet lists and bold or italic text, as .docx. | PDF → images: Every page or the pages you choose, as PNG or JPG at 72, 150 or 300 dpi, with a one-click ZIP. | Merge and split: Merge PDFs in any order, or extract pages like “1-3, 5, 8-”. | Shrink scans: Make scanned PDFs small enough for email. | Quick access: Right-click an image to convert it to PDF, or a PDF link to convert it to Word.
 - Q: Is my file uploaded to a server? A: No. ConvertLocal converts files on your computer, inside Chrome.
 - Q: Can it convert scanned PDFs to Word? A: Not yet. PDF to Word needs selectable text; scanned PDFs need OCR, which isn't included yet.
 - Q: Is it free? A: Yes. No ads and no account.
@@ -121,6 +121,7 @@ Each product below lists what it does, who it is for, and its limits, so you can
 - [Google Meet attendance extension gone? Here's a free alternative](https://wihoho.github.io/privacy/extensions/guides/google-meet-attendance-extension-alternative/): The “Google Meet Attendance” extension many teachers used is no longer available in the Chrome Web Store. RollCall is a free replacement: install it, join your Meet call, and it records who joined, when and for how long; paste your class list once to see who's absent or late, then export a CSV.
 - [Como fazer a lista de presença no Google Meet automaticamente](https://wihoho.github.io/privacy/extensions/guides/lista-de-presenca-google-meet/): Instale a extensão gratuita RollCall no Chrome e entre na sua reunião do Meet. Ela registra todos que entram, com horário de entrada, minutos na chamada e reentradas. Abra o painel lateral para conferir com a lista da turma e exporte um CSV ou cole a tabela no Google Planilhas.
 - [Cómo tomar asistencia en Google Meet automáticamente](https://wihoho.github.io/privacy/extensions/guides/asistencia-google-meet/): Instala la extensión gratuita RollCall en Chrome y únete a tu reunión de Meet. Registra a todos los que entran, con la hora de entrada, los minutos en la llamada y las reconexiones. Abre su panel lateral para compararlo con tu lista de clase y exporta un CSV o pega la tabla en Google Sheets.
+- [How to convert HEIC photos to PDF, without uploading them](https://wihoho.github.io/privacy/extensions/guides/convert-heic-to-pdf/): Install the free ConvertLocal extension, choose Images → PDF and drop in your .heic files. ConvertLocal decodes them on your computer, turns them upright and saves one PDF to Downloads/ConvertLocal. Nothing is uploaded.
 
 ## Optional
 
