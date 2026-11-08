@@ -1,0 +1,16 @@
+{%- comment -%}
+  Overrides Minima 2.5.1, which sends Universal Analytics (analytics.js).
+  UA-39175404-1 is retired and must not be loaded.
+  Set google_analytics in _config.yml to a GA4 measurement ID (G-XXXXXXXXXX)
+  and this include emits gtag.js. Anything else is ignored.
+{%- endcomment -%}
+{%- assign ga_id = site.google_analytics | default: "" -%}
+{%- if ga_id contains "G-" -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ ga_id }}');
+</script>
+{%- endif -%}

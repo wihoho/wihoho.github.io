@@ -1,0 +1,27 @@
+# Pings IndexNow after a push to master, once GitHub Pages has published.
+# The key comes from the repository secret INDEXNOW_KEY. Do not commit a real key.
+# indexnow-key.txt at the site root must contain that same key or the API returns 403.
+name: IndexNow
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Submit sitemap URLs to IndexNow
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: python3 script/indexnow.py --wait 600

@@ -1,0 +1,20 @@
+{%- assign this_app = site.data.apps | where: "id", page.app_id | first -%}
+{%- if this_app -%}
+<h2>On this site</h2>
+<ul>
+  <li><a href="{{ this_app.post }}">{{ this_app.post_title }}</a></li>
+  <li><a href="{{ this_app.privacy }}">Privacy policy</a></li>
+  <li><a href="{{ '/apps/' | relative_url }}">All Android apps</a></li>
+</ul>
+{%- if this_app.related -%}
+<h2>Related apps</h2>
+<ul>
+{%- for rid in this_app.related -%}
+  {%- assign other = site.data.apps | where: "id", rid | first -%}
+  {%- if other -%}
+  <li><a href="{{ other.path }}">{{ other.short_name }}</a>: {{ other.short }}</li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
+{%- endif -%}
+{%- endif -%}

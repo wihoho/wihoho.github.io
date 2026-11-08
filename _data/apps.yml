@@ -1,0 +1,183 @@
+# Facts below are taken from the Google Play listings fetched on 2026-11-08.
+# Do not add ratings, install counts, or prices that are not on the listing.
+- id: plainscan
+  short_name: PlainScan
+  name: "PlainScan: PDF Doc Scanner"
+  package: com.wihoho.plainscan
+  path: /apps/plainscan/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainscan
+  privacy: https://wihoho.github.io/privacy/plainscan/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/scan-documents-to-pdf-offline-android.html
+  post_title: How to scan paper documents to a PDF on Android, offline
+  short: Scan documents to PDF in one tap. Auto edges, copy text, works fully offline.
+  schema_description: "PlainScan turns paper into a clean PDF on Android. It finds page edges, cleans shadows, copies text on the device, and has no internet permission."
+  schema_category: BusinessApplication
+  play_category: PRODUCTIVITY
+  content_rating: Everyone
+  updated: "2026-11-04"
+  image: https://play-lh.googleusercontent.com/yFEFIyvhUtFqQ0XPV3UuPG4PDU6aXaNIfj7gtJK53gldWYJiwCJt-vTBtp0uJNiP7zquxOYgwy07drHgWd5S
+  related:
+    - plainthread
+    - plainplan
+
+- id: plainthread
+  short_name: PlainThread
+  name: "Chat & SMS to PDF: PlainThread"
+  package: com.wihoho.plainthread
+  path: /apps/plainthread/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainthread
+  privacy: https://wihoho.github.io/privacy/plainthread/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/export-whatsapp-or-sms-to-pdf.html
+  post_title: How to turn a WhatsApp chat or SMS backup into a PDF
+  short: Turn chat exports and SMS backups into clean, dated PDFs. No account, no ads.
+  schema_description: "PlainThread turns a WhatsApp chat export or an SMS backup XML file into a dated, printable PDF on your phone. It only reads the file you give it."
+  schema_category: BusinessApplication
+  play_category: PRODUCTIVITY
+  content_rating: Everyone
+  updated: "2026-11-05"
+  image: https://play-lh.googleusercontent.com/TYImtxYOYOfqd1RBtime6lNX3Q4x5PxwJxooH8W3Wv9TLd4AYfa1b6u0PjQbMjxp9lQeC-ejj4wh5RWyDil5BA
+  related:
+    - plainscan
+
+- id: plainwifi
+  short_name: PlainWiFi
+  name: "PlainWiFi: Channel Analyzer"
+  package: com.wihoho.plainwifi
+  path: /apps/plainwifi/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainwifi
+  privacy: https://wihoho.github.io/privacy/plainwifi/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/find-the-least-crowded-wifi-channel.html
+  post_title: How to find the least crowded Wi-Fi channel
+  short: See Wi-Fi channels, signal and dead zones. Plain advice, no account or tracking.
+  schema_description: "PlainWiFi lists nearby Wi-Fi networks, draws channel widths, and recommends a less crowded channel. It does not boost Wi-Fi or run speed tests."
+  schema_category: UtilitiesApplication
+  play_category: TOOLS
+  content_rating: Everyone
+  updated: "2026-11-05"
+  image: https://play-lh.googleusercontent.com/jbNoEZaiK4AqnTSs8_UeTfA-CRt4fozw1O0Legia_iD2cEeBnrdTfA4qGH7efNMT8Fzw-OJ9KEDhx6FYK3Ci
+  related:
+    - plainplan
+
+- id: plainloud
+  short_name: PlainLoud
+  name: "PlainLoud: Video Volume Boost"
+  package: com.wihoho.plainloud
+  path: /apps/plainloud/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainloud
+  privacy: https://wihoho.github.io/privacy/plainloud/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/make-a-quiet-video-louder-on-android.html
+  post_title: How to make a quiet video louder on Android
+  short: Make quiet videos louder. Equalizer, limiter, audio export. No watermark.
+  schema_description: "PlainLoud raises the volume of a quiet video or audio file on Android, with a limiter and equalizer, and saves a new file. The original is left unchanged."
+  schema_category: MultimediaApplication
+  play_category: VIDEO_PLAYERS
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/VP8fBi0ZMsWKWnjfcn6jsxvuFcJYYpA4i5eOhlIm6Idd3PhMpPLPOgv0bRG10WGwQAjV_bdT5Le9g5fSazVh9A
+  related:
+    - plainpads
+
+- id: plainplan
+  short_name: PlainPlan
+  name: "PlainPlan: Floor Plan Maker"
+  package: com.wihoho.plainplan
+  path: /apps/plainplan/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainplan
+  privacy: https://wihoho.github.io/privacy/plainplan/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/draw-a-floor-plan-to-scale-on-your-phone.html
+  post_title: How to draw a floor plan to scale on your phone
+  short: Draw floor plans to scale. Every wall length and room area. Works offline.
+  schema_description: "PlainPlan draws floor plans to scale on Android, with wall lengths, room areas, doors, furniture, and PDF, PNG, or DXF export."
+  schema_category: DesignApplication
+  play_category: PRODUCTIVITY
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/tw_UQOxzzh04_ZX6disliiWWAWMM92OKNTm7M7j3-dy53ke2pmu4HvArZ4mWODu-Cd7YFXALfB7ljXkb0fYRHw
+  related:
+    - plainscan
+    - plainwifi
+
+- id: plainstamp
+  short_name: PlainStamp
+  name: "PlainStamp: Timestamp Camera"
+  package: com.wihoho.plainstamp
+  path: /apps/plainstamp/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainstamp
+  privacy: https://wihoho.github.io/privacy/plainstamp/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/put-date-time-and-gps-on-photos.html
+  post_title: How to put the date, time, and GPS location on photos
+  short: Date, time and GPS stamp on photos and video. No ads, no account, works offline.
+  schema_description: "PlainStamp stamps the date, time, and optional GPS location onto photos and videos as you capture them, and can stamp pictures you already have."
+  schema_category: MultimediaApplication
+  play_category: PHOTOGRAPHY
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/avH9yMnedHFKXI8_urAUCmrSKsB_o6cwWY9JvMI8YxzjS7Q-hExb00GhH3DqhZ-uByPkzZv6MwXQvrC0Z2MROA
+  related:
+    - plainmark
+
+- id: plainmark
+  short_name: PlainMark
+  name: "PlainMark: Watermark Photos"
+  package: com.wihoho.plainmark
+  path: /apps/plainmark/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainmark
+  privacy: https://wihoho.github.io/privacy/plainmark/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/watermark-photos-and-videos-on-android.html
+  post_title: How to watermark photos and videos on Android
+  short: Add text or logo watermarks to photos and videos. Full size, offline, no account.
+  schema_description: "PlainMark adds a text or logo watermark to photos and videos on Android and saves full-size copies. Originals are not changed, and the app has no internet permission."
+  schema_category: MultimediaApplication
+  play_category: PHOTOGRAPHY
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/RNfxyvEJhcY_IkiACR5UFbBlLGIqxP4Dmc9PX0D7sdGtHz6l8UeWDK_kHqbkvV1Ga2vKHlYHZvMgmpdFwkHbO9o
+  related:
+    - plainstamp
+
+- id: plainpads
+  short_name: PlainPads
+  name: "PlainPads: Beat Maker Drum Pad"
+  package: com.wihoho.plainpads
+  path: /apps/plainpads/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plainpads
+  privacy: https://wihoho.github.io/privacy/plainpads/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/make-a-beat-on-android-with-drum-pads.html
+  post_title: How to make a beat on Android with drum pads
+  short: Drum pads, step sequencer, looper and effects. No sign-up, no trial, offline.
+  schema_description: "PlainPads is an Android drum pad and beat maker with a 16-step sequencer, four loop tracks, and effects. Beats stay on the phone."
+  schema_category: MultimediaApplication
+  play_category: MUSIC_AND_AUDIO
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/OGGuLjKOvLZ9mGd8N0r6C3f5TtpbIUj-V69P9fgrOzkjU3Z6SKk4qheGLXAegd9mrpD5JMlFpLwmVBV3CUpZkMo
+  related:
+    - plainloud
+
+- id: plaintally
+  short_name: PlainTally
+  name: "PlainTally: Barcode to CSV"
+  package: com.wihoho.plaintally
+  path: /apps/plaintally/
+  play: https://play.google.com/store/apps/details?id=com.wihoho.plaintally
+  privacy: https://wihoho.github.io/privacy/plaintally/
+  developer: https://play.google.com/store/apps/developer?id=tedmosby
+  post: /2026/11/08/scan-barcodes-into-a-spreadsheet.html
+  post_title: How to scan barcodes into a CSV or Excel file
+  short: Scan barcodes and QR codes into lists. Save as CSV or XLSX. No login, offline.
+  schema_description: "PlainTally scans barcodes and QR codes into lists on Android and saves CSV or XLSX files. The reader is in the app and works offline."
+  schema_category: BusinessApplication
+  play_category: PRODUCTIVITY
+  content_rating: Everyone
+  updated: "2026-11-07"
+  image: https://play-lh.googleusercontent.com/7kFLht1sxNd1jd9i4R7BJr_k_xl6izxNc_pECVVr64lU41Lkj01Ox9cGn4iVbwdBU3SgxolByLki5YhDJy2u9g4
+  related:
+    - plainscan

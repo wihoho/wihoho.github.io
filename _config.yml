@@ -1,12 +1,43 @@
 markdown: kramdown
 theme: minima
 title: wihoho's blog
+description: >-
+  Free Android apps and notes: offline document scanning, chat and SMS to PDF,
+  Wi-Fi channels, video volume, floor plans, photo stamps, watermarks, drum
+  pads, and barcode spreadsheets.
+url: https://wihoho.github.io
+# User site. An empty baseurl stops jekyll-github-metadata from inventing one
+# when the GitHub API is unavailable during a local production build.
+baseurl: ""
+future: true
+repository: wihoho/wihoho.github.io
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 disqus:
   shortname: blog-hpksa7ezhy
 
-google_analytics: UA-39175404-1
+# Universal Analytics UA-39175404-1 no longer collects data.
+# Paste a GA4 measurement ID (G-XXXXXXXXXX) to enable gtag.js.
+# _includes/google-analytics.html ignores anything that is not a G- ID.
+# google_analytics:
+
+# Optional meta-tag verification. Leave blank until you have a token.
+# Search Console is already verified via google0ad0c6ea984bb0e0.html.
+# BingSiteAuth.xml is already published at the site root.
+# google: content of <meta name="google-site-verification">
+# bing:   content of <meta name="msvalidate.01">
+webmaster_verifications:
+  google:
+  bing:
+
+github_username: wihoho
+
 # Keep the nav to the main pages (app policies are linked directly).
 header_pages:
   - about.md
   - portfolio.md
+  - apps/index.md

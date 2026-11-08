@@ -123,8 +123,78 @@ Each product below lists what it does, who it is for, and its limits, so you can
 - [Cómo tomar asistencia en Google Meet automáticamente](https://wihoho.github.io/privacy/extensions/guides/asistencia-google-meet/): Instala la extensión gratuita RollCall en Chrome y únete a tu reunión de Meet. Registra a todos los que entran, con la hora de entrada, los minutos en la llamada y las reconexiones. Abre su panel lateral para compararlo con tu lista de clase y exporta un CSV o pega la tabla en Google Sheets.
 - [How to convert HEIC photos to PDF, without uploading them](https://wihoho.github.io/privacy/extensions/guides/convert-heic-to-pdf/): Install the free ConvertLocal extension, choose Images → PDF and drop in your .heic files. ConvertLocal decodes them on your computer, turns them upright and saves one PDF to Downloads/ConvertLocal. Nothing is uploaded.
 
+## Android apps
+
+Free Android apps on Google Play, published by tedmosby. Most have no account and no internet permission, so files stay on the phone until the user shares them. Index: https://wihoho.github.io/apps/
+
+### PlainScan (PDF)
+- Best for: Scan paper documents to PDF on Android, offline.
+- What it does: Finds page edges, cleans shadows and stains, builds a multi-page PDF, imports gallery photos, and copies text on the device (English, other Latin-alphabet languages, and Chinese). Search covers titles and the words inside scans.
+- Limits: No internet permission. Text recognition languages on the Play listing are Latin-alphabet languages and Chinese. Scanning uses the on-device document scanner in Google Play services.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainscan
+- Details: https://wihoho.github.io/apps/plainscan/ · Guide: https://wihoho.github.io/2026/11/08/scan-documents-to-pdf-offline-android.html · Privacy: https://wihoho.github.io/privacy/plainscan/
+
+### PlainThread (PDF)
+- Best for: Turn a WhatsApp chat export or an SMS backup into a dated PDF.
+- What it does: Reads a .txt, .zip, or SMS .xml file the user opens. Shows participants, counts, and a completeness check, then writes a PDF with sender, date, time, and page numbers. Includes exhibit labels and a SHA-256 export-record page. No message limit.
+- Limits: Formatting only, not legal advice. Cannot add messages that were not in the file. RCS messages are often missing from SMS backups. Not affiliated with WhatsApp or Meta.
+- Price: free, no in-app purchases. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainthread
+- Details: https://wihoho.github.io/apps/plainthread/ · Guide: https://wihoho.github.io/2026/11/08/export-whatsapp-or-sms-to-pdf.html · Privacy: https://wihoho.github.io/privacy/plainthread/
+
+### PlainWiFi (Tools)
+- Best for: See which Wi-Fi channel is crowded and where the signal drops.
+- What it does: Lists nearby networks (signal, channel, band, width, security, Wi-Fi generation), draws 2.4/5/6 GHz at real channel width, recommends a less crowded channel, flags DFS and open or WEP networks, and records a room walk.
+- Limits: Does not boost Wi-Fi, show passwords, or run speed tests. Free room walks cover 3 rooms. An optional one-time purchase adds unlimited rooms, saved walks, and CSV export. The listing does not state that price.
+- Price: free to install. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainwifi
+- Details: https://wihoho.github.io/apps/plainwifi/ · Guide: https://wihoho.github.io/2026/11/08/find-the-least-crowded-wifi-channel.html · Privacy: https://wihoho.github.io/privacy/plainwifi/
+
+### PlainLoud (Video)
+- Best for: Make a quiet video louder on Android.
+- What it does: Boosts up to +30 dB or down by 10 dB, can target −16, −14, or −11 LUFS, limits peaks, previews with the same processing used for the save, and includes a 6-band equalizer. The picture is copied unchanged. Saves MP4, M4A, or WAV.
+- Limits: Cannot recover sound that was never recorded. Uses the first audio track if there are several. Keep the app open while it saves. No watermark and no in-app purchases.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainloud
+- Details: https://wihoho.github.io/apps/plainloud/ · Guide: https://wihoho.github.io/2026/11/08/make-a-quiet-video-louder-on-android.html · Privacy: https://wihoho.github.io/privacy/plainloud/
+
+### PlainPlan (Floor plans)
+- Best for: Draw a floor plan to scale on a phone.
+- What it does: Walls, rooms, doors, windows, 45 furniture items, exact lengths, areas, and a photo trace. Exports a scaled PDF, PNG, DXF, or a .plan backup.
+- Limits: Plans are approximate; dimensions should be checked on site. No account and no internet permission.
+- Price: free, every tool included. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainplan
+- Details: https://wihoho.github.io/apps/plainplan/ · Guide: https://wihoho.github.io/2026/11/08/draw-a-floor-plan-to-scale-on-your-phone.html · Privacy: https://wihoho.github.io/privacy/plainplan/
+
+### PlainStamp (Camera)
+- Best for: Put the date, time, and GPS location on photos and video.
+- What it does: Stamps capture time and optional GPS (offline) onto photos and video, can stamp existing gallery items, and keeps a log with a SHA-256 fingerprint exportable as PDF or CSV.
+- Limits: The stamp matches the phone's clock and location fix. Street address is optional and uses the phone's geocoder. The app has no internet permission.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainstamp
+- Details: https://wihoho.github.io/apps/plainstamp/ · Guide: https://wihoho.github.io/2026/11/08/put-date-time-and-gps-on-photos.html · Privacy: https://wihoho.github.io/privacy/plainstamp/
+
+### PlainMark (Photos)
+- Best for: Watermark photos and videos on Android without uploading them.
+- What it does: Text or logo watermarks, batch photos, diagonal repeat, and video at the original resolution. Saves full-size copies. Removes location from photo copies by default.
+- Limits: Originals are not changed. Copies go to Pictures/PlainMark and Movies/PlainMark. No internet permission.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainmark
+- Details: https://wihoho.github.io/apps/plainmark/ · Guide: https://wihoho.github.io/2026/11/08/watermark-photos-and-videos-on-android.html · Privacy: https://wihoho.github.io/privacy/plainmark/
+
+### PlainPads (Music)
+- Best for: Make a beat on Android with drum pads.
+- What it does: 16 pads, 8 kits, 128 sounds, a 16-step sequencer, four loop tracks, and effects. Records or exports WAV. Imports audio or samples the microphone.
+- Limits: No account and no internet permission. Built-in sounds were made for the app and are released as CC0 in the privacy policy.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plainpads
+- Details: https://wihoho.github.io/apps/plainpads/ · Guide: https://wihoho.github.io/2026/11/08/make-a-beat-on-android-with-drum-pads.html · Privacy: https://wihoho.github.io/privacy/plainpads/
+
+### PlainTally (Barcodes)
+- Best for: Scan barcodes and QR codes into a CSV or XLSX file.
+- What it does: Continuous scanning into inventory, attendance, or simple lists, with custom columns and a lookup CSV. Saves XLSX (codes kept as text) or CSV. Works with a Bluetooth or USB scanner.
+- Limits: No account, no scan limit, no internet permission. Camera is the only permission. The reader is built into the app.
+- Price: free. Google Play: https://play.google.com/store/apps/details?id=com.wihoho.plaintally
+- Details: https://wihoho.github.io/apps/plaintally/ · Guide: https://wihoho.github.io/2026/11/08/scan-barcodes-into-a-spreadsheet.html · Privacy: https://wihoho.github.io/privacy/plaintally/
+
 ## Optional
 
 - [All extensions](https://wihoho.github.io/privacy/extensions/)
-- [Sitemap](https://wihoho.github.io/privacy/extensions/sitemap.xml)
+- [All Android apps](https://wihoho.github.io/apps/)
+- [Sitemap index](https://wihoho.github.io/sitemap_index.xml)
+- [Blog and app sitemap](https://wihoho.github.io/sitemap.xml)
+- [Extensions sitemap](https://wihoho.github.io/privacy/extensions/sitemap.xml)
 - Support: https://github.com/wihoho/privacy/issues

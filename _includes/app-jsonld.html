@@ -1,0 +1,30 @@
+{%- assign this_app = site.data.apps | where: "id", page.app_id | first -%}
+{%- if this_app -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["SoftwareApplication", "MobileApplication"],
+  "name": {{ this_app.name | jsonify }},
+  "description": {{ this_app.schema_description | jsonify }},
+  "url": {{ this_app.path | absolute_url | jsonify }},
+  "installUrl": {{ this_app.play | jsonify }},
+  "operatingSystem": "Android",
+  "applicationCategory": {{ this_app.schema_category | jsonify }},
+  "applicationSubCategory": {{ this_app.play_category | jsonify }},
+  "contentRating": {{ this_app.content_rating | jsonify }},
+  "image": {{ this_app.image | jsonify }},
+  "isAccessibleForFree": true,
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "tedmosby",
+    "url": {{ this_app.developer | jsonify }}
+  },
+  "dateModified": {{ this_app.updated | jsonify }}
+}
+</script>
+{%- endif -%}
