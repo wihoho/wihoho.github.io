@@ -1,5 +1,10 @@
 # All crawlers are welcome, including search engines and AI assistants (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended).
+# This file is published from the wihoho/wihoho.github.io repository, which is the GitHub Pages user site and serves https://wihoho.github.io/.
 User-agent: *
 Allow: /
 
+# Submit the sitemap index in Google Search Console and Bing Webmaster Tools.
+# It lists the Jekyll sitemap (posts, app pages, portfolio) and the Chrome extensions sitemap.
+Sitemap: https://wihoho.github.io/sitemap_index.xml
+Sitemap: https://wihoho.github.io/sitemap.xml
 Sitemap: https://wihoho.github.io/privacy/extensions/sitemap.xml

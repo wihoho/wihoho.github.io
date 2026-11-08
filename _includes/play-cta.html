@@ -1,0 +1,4 @@
+{%- assign this_app = site.data.apps | where: "id", include.id | first -%}
+{%- if this_app -%}
+<p><a href="{{ this_app.play }}&amp;utm_source=wihoho.github.io&amp;utm_medium=website&amp;utm_campaign={{ this_app.id }}&amp;utm_content={{ include.content | default: 'site' }}">Get {{ this_app.short_name }} on Google Play</a></p>
+{%- endif -%}
