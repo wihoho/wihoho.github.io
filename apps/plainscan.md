@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/yFEFIyvhUtFqQ0XPV3UuPG4PDU6aXaNIfj7
 
 PlainScan turns a paper page into a PDF on your phone. Open it, tap Scan, and the camera is already up: there is no account to create and no watermark on the file you save.
 
+Another guide: [Copy Text From a Paper Document on Android](/2026/11/09/copy-text-from-a-paper-document-on-android.html).
+
 It is the right tool for receipts, invoices, contracts, forms, school notes, letters, and IDs. The walkthrough is [how to scan paper documents to a PDF on Android, offline](/2026/11/08/scan-documents-to-pdf-offline-android.html).
 
 ## What it does

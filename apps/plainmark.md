@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/RNfxyvEJhcY_IkiACR5UFbBlLGIqxP4Dmc9
 
 PlainMark puts your name, logo, or website on photos and videos, then saves them at full size. Every feature on the listing is free: no subscription, no credits, no trial, no ads, and no account. It works offline.
 
+Another guide: [Add Your Logo to Photos on Android, White Background Removed](/2026/11/09/add-a-logo-to-photos-on-android.html).
+
 The walkthrough is [how to watermark photos and videos on Android](/2026/11/08/watermark-photos-and-videos-on-android.html). If the photo also needs the time and place burned in, do that first with [PlainStamp](/apps/plainstamp/) and watermark the result.
 
 ## What you can put on a photo

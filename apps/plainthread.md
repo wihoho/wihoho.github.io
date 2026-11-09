@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/TYImtxYOYOfqd1RBtime6lNX3Q4x5PxwJxo
 
 PlainThread lays out a chat export or a text-message backup as a PDF: each message has its sender, date, and time, with day headings and page numbers. People use that when someone else has to read the conversation, such as a landlord dispute, an HR complaint, small claims, a family matter, or a personal record.
 
+Another guide: [Print Text Messages for Court With Dates and Page Numbers](/2026/11/09/print-text-messages-for-court-with-dates.html).
+
 The step-by-step is [how to turn a WhatsApp chat or SMS backup into a PDF](/2026/11/08/export-whatsapp-or-sms-to-pdf.html).
 
 ## How a file gets in

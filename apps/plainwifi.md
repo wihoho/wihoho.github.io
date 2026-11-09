@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/jbNoEZaiK4AqnTSs8_UeTfA-CRt4fozw1O0
 
 PlainWiFi shows the Wi-Fi around you and says, in a full sentence, what is worth changing. It opens on your networks. The guide is [how to find the least crowded Wi-Fi channel](/2026/11/08/find-the-least-crowded-wifi-channel.html).
 
+Another guide: [Find Wi-Fi dead zones in your home with an Android phone](/2026/11/09/find-wifi-dead-zones-in-your-home.html).
+
 ## What it does
 
 - Lists every nearby network with signal strength, channel, band, channel width, security, and Wi-Fi generation (Wi-Fi 4, 5, 6, 6E, and 7).

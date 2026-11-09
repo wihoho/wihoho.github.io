@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/7kFLht1sxNd1jd9i4R7BJr_k_xl6izxNc_p
 
 PlainTally turns a pile of barcodes into a spreadsheet. Make a list, point the camera at the labels, and each code becomes a row with its time. Save CSV or XLSX on the phone, or share it to email, chat, or a drive. There is no account, no cloud to link, and no scan limit.
 
+Another guide: [Take attendance by scanning QR codes on Android](/2026/11/09/take-attendance-by-scanning-qr-codes.html).
+
 The guide is [how to scan barcodes into a CSV or Excel file](/2026/11/08/scan-barcodes-into-a-spreadsheet.html). It fits stock counts, deliveries and receiving, asset tags, library books, event and class check-ins, and sample tracking.
 
 ## Scanning

@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/VP8fBi0ZMsWKWnjfcn6jsxvuFcJYYpA4i5e
 
 PlainLoud makes the sound of a quiet video louder and clearer, then saves a new file to your gallery. Pick a video, raise the volume, listen, and save. Every feature on the listing is free: no watermark, no ads, no sign-up, no trial, no subscription, and no in-app purchases.
 
+Another guide: [Extract audio from a video on Android as M4A or WAV](/2026/11/09/extract-audio-from-a-video-on-android.html).
+
 The practical version is [how to make a quiet video louder on Android](/2026/11/08/make-a-quiet-video-louder-on-android.html).
 
 ## What it does

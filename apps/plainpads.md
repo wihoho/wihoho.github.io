@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/OGGuLjKOvLZ9mGd8N0r6C3f5TtpbIUj-V69
 
 PlainPads is a drum pad and beat maker that opens on the pads. There is no trial screen, no sign-up, no ads, and nothing locked. Tap a pad and it plays.
 
+Another guide: [Sample Your Own Sounds onto Drum Pads on Android](/2026/11/09/sample-your-own-sounds-onto-drum-pads-android.html).
+
 The guide is [how to make a beat on Android with drum pads](/2026/11/08/make-a-beat-on-android-with-drum-pads.html). A video of you playing can be made louder afterwards in [PlainLoud](/apps/plainloud/).
 
 ## Playing and sequencing

@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/avH9yMnedHFKXI8_urAUCmrSKsB_o6cwWY9
 
 PlainStamp puts the date, time, and place on photos and videos at the moment you take them. Open the app and shoot. There is no account, no ad before the shutter, and no forced logo.
 
+Another guide: [Document a Rental's Condition with Dated, Located Photos](/2026/11/09/document-rental-property-condition-with-dated-photos.html).
+
 Use it for site visits, deliveries, inspections, property condition photos, field work, school projects, and travel, anywhere "when and where" matters. The guide is [how to put the date, time, and GPS location on photos](/2026/11/08/put-date-time-and-gps-on-photos.html).
 
 ## Capture

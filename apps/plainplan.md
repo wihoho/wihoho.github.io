@@ -9,6 +9,8 @@ image: https://play-lh.googleusercontent.com/tw_UQOxzzh04_ZX6disliiWWAWMM92OKNTm
 
 PlainPlan is a floor plan maker for a phone or tablet. Sketch one room, or a whole house floor by floor, and the wall lengths and room areas update as you draw. There is no account and nothing to unlock: every tool is available from the start.
 
+Another guide: [Plan a furniture layout from a listing floor plan](/2026/11/09/plan-furniture-layout-from-a-listing-floor-plan.html).
+
 Follow [how to draw a floor plan to scale on your phone](/2026/11/08/draw-a-floor-plan-to-scale-on-your-phone.html). Plans are approximate. Measure again on site before you order materials or instruct a builder.
 
 ## Drawing
